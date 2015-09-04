@@ -2,7 +2,7 @@
 /*
 Plugin Name: PSMU Maintenance Mode
 Version: 1.2
-Description: A WordPress plugin that allows users to put their sites under maintenance mode. Also works with Multisite.
+Description: A WordPress plugin that allows users to put their sites under maintenance mode. For Multisite, Network Activate the plugin.
 
 Author:	Jason Jersey
 Author URI: https://twitter.com/degersey
